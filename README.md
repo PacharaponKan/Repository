@@ -109,5 +109,5 @@
 ## 🔗 Repository Link
 
 ```text
-https://github.com/PacharaponKan/Repository/tree/main
+https://github.com/PacharaponKan/Repository
 ```
