@@ -63,10 +63,10 @@
 ```text
 ช่วยอธิบายหลักการคิดแบบ Step-by-Step ของการตรวจสอบเงื่อนไขใน Flowgorithm ที่มีหลายเงื่อนไขซ้อนกัน (Nested If) ให้เข้าใจง่ายหน่อย
 
-### ฉันตรวจสอบคำตอบของ AI อย่างไร
+ฉันตรวจสอบคำตอบของ AI อย่างไร
 - นำหลักการที่ AI อธิบายมาไล่ตรวจสอบตรรกะทีละบรรทัด (Manual Code Review) และทดลองสร้าง Flowchart บน Flowgorithm พร้อมป้อนค่า Test Case หลากหลายรูปแบบเพื่อดูว่าผลลัพธ์ตรงกับความจริงหรือไม่
 
-### สิ่งที่ฉันยังต้องเรียนรู้เอง
+สิ่งที่ฉันยังต้องเรียนรู้เอง
 - การฝึกคิดและออกแบบโครงสร้าง Logic ด้วยตัวเองตั้งแต่เริ่มต้นโดยไม่พึ่งพา AI ในทันที เพื่อสร้างความเชี่ยวชาญในการแก้ปัญหา (Problem Solving)
 ```
 ---
@@ -109,5 +109,5 @@
 ## 🔗 Repository Link
 
 ```text
-[https://github.com/USERNAME/se-bootcamp-portfolio](https://github.com/PacharaponKan/Repository)
+https://github.com/PacharaponKan/Repository/tree/main
 ```
